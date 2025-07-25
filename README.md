@@ -11,7 +11,6 @@
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="LeetCode Logo" />
   </a>
-  <strong>Problem Solving on LeetCode</strong>
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
     <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" height="50" style="border-radius: 50%;" alt="GIF" />
   </a>
