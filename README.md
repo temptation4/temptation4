@@ -4,12 +4,15 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/neelhuma/" target="_blank" style="text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 12px;">
+  <a href="https://leetcode.com/u/neelhuma/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode Logo" />
-    <span style="font-size: 18px; font-weight: 600; color: #000;">Problem Solving on LeetCode</span>
-    <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="50" style="border-radius: 50%;" alt="Solving LeetCode GIF" />
+    &nbsp;&nbsp;
+    <strong style="font-size: 18px; vertical-align: middle;">Problem Solving on LeetCode</strong>
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/leetcode.gif" width="60" alt="Solving LeetCode GIF" style="border-radius: 50%;" />
   </a>
 </p>
+
 
 <h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
 
