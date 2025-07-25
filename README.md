@@ -103,14 +103,29 @@
 ### 💡 Soft Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Communication-4B0082?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Collaboration-800080?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-9932CC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Time%20Management-BA55D3?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adaptability-DDA0DD?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Critical%20Thinking-DA70D6?style=for-the-badge&logoColor=black" />
+  <a href="https://en.wikipedia.org/wiki/Communication" target="_blank">
+    <img src="https://img.shields.io/badge/Communication-4B0082?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Collaboration" target="_blank">
+    <img src="https://img.shields.io/badge/Collaboration-800080?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Problem_solving" target="_blank">
+    <img src="https://img.shields.io/badge/Problem%20Solving-9932CC?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Time_management" target="_blank">
+    <img src="https://img.shields.io/badge/Time%20Management-BA55D3?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Leadership" target="_blank">
+    <img src="https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Adaptability" target="_blank">
+    <img src="https://img.shields.io/badge/Adaptability-DDA0DD?style=for-the-badge&logoColor=black" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Critical_thinking" target="_blank">
+    <img src="https://img.shields.io/badge/Critical%20Thinking-DA70D6?style=for-the-badge&logoColor=black" />
+  </a>
 </p>
+
 
 ---
 
