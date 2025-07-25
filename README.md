@@ -16,9 +16,10 @@
     Problem Solving on LeetCode
   </span>
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
-    <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="50" style="vertical-align: middle; border-radius: 50%;" alt="LeetCode GIF" />
+    <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="50" style="border-radius: 50%; vertical-align: middle;" alt="LeetCode GIF" />
   </a>
 </p>
+
 
 
 
