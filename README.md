@@ -8,21 +8,15 @@
 </p>
 
 <!-- LeetCode Block -->
-<p align="center">
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode Logo" style="vertical-align: middle;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="LeetCode Logo" />
   </a>
-  <span style="font-size: 18px; font-weight: bold; vertical-align: middle; margin: 0 10px;">
-    Problem Solving on LeetCode
-  </span>
+  <strong style="font-size: 20px;">Problem Solving on LeetCode</strong>
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
-    <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="50" style="border-radius: 50%; vertical-align: middle;" alt="LeetCode GIF" />
+    <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" height="50" style="border-radius: 50%;" alt="GIF" />
   </a>
 </p>
-
-
-
-
 
 <h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
 
