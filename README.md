@@ -3,10 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelu+Sahai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelu+Sahai" alt="Typing SVG" />
 </p>
-
-
 
 <h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
 
@@ -45,6 +43,20 @@
   <img src="https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System%20Design-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2196F3?style=for-the-badge" />
+</p>
+
+---
+
+### 💡 Soft Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Communication-4B0082?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Collaboration-800080?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-9932CC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time%20Management-BA55D3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adaptability-DDA0DD?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Critical%20Thinking-DA70D6?style=for-the-badge&logoColor=black" />
 </p>
 
 ---
