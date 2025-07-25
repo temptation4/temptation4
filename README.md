@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Coding Girl GIF" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Neelu Sahai</h1>
 <h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
 
