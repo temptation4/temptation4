@@ -3,8 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelu+Sahai" alt="Typing SVG" />
+  <a href="https://leetcode.com/u/neelhuma/" target="_blank" style="text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 12px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode Logo" />
+    <span style="font-size: 18px; font-weight: 600; color: #000;">Problem Solving on LeetCode</span>
+    <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="50" style="border-radius: 50%;" alt="Solving LeetCode GIF" />
+  </a>
 </p>
+
 
 <h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
 
