@@ -7,15 +7,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=30&duration=3500&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelu+Sahai" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/neelhuma/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode Logo" />
-    &nbsp;&nbsp;
-    <strong style="font-size: 18px; vertical-align: middle;">Problem Solving on LeetCode</strong>
-    &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/leetcode.gif" width="60" alt="Solving LeetCode GIF" style="border-radius: 50%;" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://leetcode.com/u/neelhuma/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode Logo" />
+      </a>
+    </td>
+    <td style="padding: 0 15px; text-align: center;">
+      <strong>Problem Solving on LeetCode</strong>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/neelhuma/" target="_blank">
+        <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="50" alt="LeetCode GIF" style="border-radius: 50%;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
