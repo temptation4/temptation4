@@ -7,15 +7,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=30&duration=3500&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelu+Sahai" alt="Typing SVG" />
 </p>
 
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
-  <strong>Problem Solving on LeetCode</strong>
+<p align="center">
+  <strong>Problem Solving on LeetCode</strong><br>
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="LeetCode Logo" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
     <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" height="50" style="border-radius: 50%;" alt="GIF" />
   </a>
 </p>
+
 
 <h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
 
