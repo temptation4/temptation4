@@ -31,7 +31,6 @@
 - 🌱 Exploring **Spring Boot 3**, **Java 21**, **System Design**, **Microservices**, **Cloud Computing**, and **Data Structures & Algorithms**  
 - 🗨️ Ask me about **Spring Boot, Microservices, Kafka, AWS, MongoDB, System Design**  
 - 📧 How to reach me: **neelhuma@gmail.com**  
-- 📄 [View My Resume](./resume/Neelu_Sahai_Resume.pdf)  
 - ⚡ Fun fact: I love solving real-world problems with clean architecture and reusable components.
 
 
