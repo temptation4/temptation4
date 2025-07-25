@@ -9,11 +9,11 @@
 <h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
 
 
-<h3 align="center">🧠 Problem Solving @ <span style="color:#FFA116;">LeetCode</span></h3>
-
-<p align="center">
-  <a href="https://leetcode.com/u/neelhuma/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/your-image-id.png" width="500" alt="LeetCode Banner" />
+<p align="center" style="text-decoration: none;">
+  <a href="https://leetcode.com/u/neelhuma/" target="_blank" style="text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode Logo" />
+    <span style="font-weight: bold; color: black;">Problem Solving on LeetCode</span>
+    <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="60" alt="Solving LeetCode GIF" style="border-radius: 50%;" />
   </a>
 </p>
 
