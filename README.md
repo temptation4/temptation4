@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelu+Sahai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelu+Sahai" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
