@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Neelu Sahai</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelu+Sahai" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
 
 ---
@@ -10,7 +13,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 An eager-to-learn Software Engineer with strong expertise in backend development and scalable microservices architecture  
-- 🌱 Exploring **Spring Boot 3**, **Java 21**, and **Advanced Kafka Patterns**  
+- 🌱 Exploring **Spring Boot 3**, **Java 21**, **System Design**, **Microservices**, **Cloud Computing**, and **Data Structures & Algorithms**  
 - 💬 Ask me about **Spring Boot, Microservices, Kafka, AWS, MongoDB, System Design**  
 - 📫 How to reach me: **neelhuma@gmail.com**  
 - 📄 [View My Resume](./resume/Neelu_Sahai_Resume.pdf)  
