@@ -38,7 +38,7 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+ <p align="left">
   <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">
     <img src="https://img.shields.io/badge/Java-17%2F21-007396?style=for-the-badge&logo=java&logoColor=white" />
   </a>
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS☁️-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -79,25 +79,24 @@
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   </a>
   <a href="https://restfulapi.net/" target="_blank">
-    <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=rest&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST_API🔗-00599C?style=for-the-badge" />
   </a>
   <a href="https://www.baeldung.com/java-multithreading-concurrency" target="_blank">
-    <img src="https://img.shields.io/badge/Multithreading-00618A?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Multithreading🧵-00618A?style=for-the-badge" />
   </a>
   <a href="https://www.geeksforgeeks.org/concurrency-in-java/" target="_blank">
-    <img src="https://img.shields.io/badge/Concurrency-6E6E6E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Concurrency⚙️-6E6E6E?style=for-the-badge" />
   </a>
   <a href="https://microservices.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Microservices🧩-FF9800?style=for-the-badge" />
   </a>
   <a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    <img src="https://img.shields.io/badge/System%20Design-4CAF50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/System%20Design📐-4CAF50?style=for-the-badge" />
   </a>
   <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
-    <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2196F3?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms📊-2196F3?style=for-the-badge" />
   </a>
 </p>
-
 
 ---
 
