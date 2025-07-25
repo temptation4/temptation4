@@ -8,17 +8,14 @@
 
 <h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
 
----
 
 <h3 align="center">🧠 Problem Solving @ <span style="color:#FFA116;">LeetCode</span></h3>
 
 <p align="center">
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
-    <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="500" height="160" alt="LeetCode Problem Solving" style="transform: scaleX(-1);" />
+    <img src="https://user-images.githubusercontent.com/your-image-id.png" width="500" alt="LeetCode Banner" />
   </a>
 </p>
-
-<p align="center"><em>Click the animation to explore my LeetCode solutions!</em></p>
 
 ---
 
