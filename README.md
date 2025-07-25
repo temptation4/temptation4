@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Problem Solving on LeetCode</strong><br>
+  <strong>To Check Problem Solving on LeetCode Click On Below</strong><br>
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="LeetCode Logo" />
   </a>
