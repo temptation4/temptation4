@@ -1,51 +1,52 @@
-<h1 align="center">👋 Hi, I'm Neelu Sahai</h1>
-<p align="center">
-  <b>Senior Java Backend Developer</b> <br/>
-  11.5+ years of experience | Java • Spring Boot • Kafka • AWS • Microservices
+<h1 align="center">Hi 👋, I'm Neelu Sahai</h1>
+<h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently working as a **Java Consultant at GlobalLogic (Client: Google)**
+- 🌱 I’m currently exploring **Spring Boot 3**, **Java 21**, and **Advanced Kafka Patterns**
+- 💬 Ask me about **Spring Boot, Microservices, Kafka, AWS, MongoDB, and System Design**
+- 📫 How to reach me: **neelhuma@gmail.com**
+- 📄 [View My Resume](./resume/Neelu_Sahai_Resume.pdf)
+- ⚡ Fun fact: I love solving real-world problems with clean architecture and reusable components.
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-17%2F21-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 💼 Summary
+### 📊 GitHub Stats
 
-💡 Passionate about building high-performance, scalable backend systems using:
-- 💻 **Java 17/21**, Spring Boot, Spring Cloud
-- ☁️ **AWS (EC2, S3)**, Docker, Kubernetes
-- 🔄 **Kafka, RabbitMQ, GRPC**
-- 🧩 Microservices, REST APIs, Multithreading, AOP
-- 🔐 Spring Security, JWT
-- 🛠️ Clean Code, SOLID principles, System Design
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=temptation4&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=temptation4&theme=radical" width="47%" />
+</p>
 
 ---
 
-### 🏢 Experience Snapshot
+### 🔗 Connect With Me
 
-| Role                     | Company                         | Duration           |
-|--------------------------|----------------------------------|--------------------|
-| Java Consultant          | GlobalLogic (Client: Google)     | Nov 2022 – Jun 2025 |
-| Senior Software Engineer | Mphasis                          | Jul 2021 – Nov 2022 |
-| Senior Java Developer    | Ecom Express                     | Apr 2019 – Jul 2021 |
-| Software Developer       | Alethe (Client: Lenskart)        | Mar 2017 – Mar 2018 |
-| Junior Engineer          | Support4Earth                    | Sep 2016 – Apr 2017 |
-| Support Engineer         | Samsung (via Ienergizer)         | Nov 2012 – Sep 2016 |
-
----
-
-### 📫 Contact
-
-- 📧 **Email**: [neelhuma@gmail.com](mailto:neelhuma@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/neelu-sahai-6367681b](https://www.linkedin.com/in/neelu-sahai-6367681b)  
-- 📄 **[Download Resume →](./resume/Neelu_Sahai_Resume.pdf)**
-
----
-
-### 🚀 Interests
-
-- Clean Code & Performance Tuning  
-- Distributed Systems & Microservices  
-- Exploring AWS & DevOps pipelines  
-- Mentoring and Collaboration Opportunities
-
----
-
-> *"I love transforming real-world business problems into elegant backend solutions."*
+<p align="left">
+  <a href="https://www.linkedin.com/in/neelu-sahai-6367681b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:neelhuma@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
