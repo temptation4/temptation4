@@ -8,21 +8,18 @@
 </p>
 
 <!-- LeetCode Block -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-
+<p align="center">
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode Logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode Logo" style="vertical-align: middle;" />
   </a>
-
-  <span style="font-size: 20px; font-weight: bold;">
+  <span style="font-size: 18px; font-weight: bold; vertical-align: middle; margin: 0 10px;">
     Problem Solving on LeetCode
   </span>
-
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
-    <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="50" style="border-radius: 50%;" alt="LeetCode GIF" />
+    <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="50" style="vertical-align: middle; border-radius: 50%;" alt="LeetCode GIF" />
   </a>
+</p>
 
-</div>
 
 
 
