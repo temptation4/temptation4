@@ -133,12 +133,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/temptation4?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=temptation4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="47%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=temptation4&theme=tokyonight" width="47%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temptation4&layout=compact&theme=tokyonight" width="47%" />
+  <a href="https://github.com/temptation4">
+    <img src="https://github-readme-stats.vercel.app/api?username=temptation4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" width="47%" />
+  </a>
+  <a href="https://github.com/temptation4">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=temptation4&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
+  </a>
+  <a href="https://github.com/temptation4">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temptation4&layout=compact&theme=tokyonight&cache_seconds=1800" width="47%" />
   </a>
 </p>
+
 
 ---
 
