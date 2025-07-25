@@ -38,26 +38,65 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-17%2F21-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multithreading-00618A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Concurrency-6E6E6E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2196F3?style=for-the-badge" />
+  <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">
+    <img src="https://img.shields.io/badge/Java-17%2F21-007396?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  </a>
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=rest&logoColor=white" />
+  </a>
+  <a href="https://www.baeldung.com/java-multithreading-concurrency" target="_blank">
+    <img src="https://img.shields.io/badge/Multithreading-00618A?style=for-the-badge" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/concurrency-in-java/" target="_blank">
+    <img src="https://img.shields.io/badge/Concurrency-6E6E6E?style=for-the-badge" />
+  </a>
+  <a href="https://microservices.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    <img src="https://img.shields.io/badge/System%20Design-4CAF50?style=for-the-badge" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2196F3?style=for-the-badge" />
+  </a>
 </p>
+
 
 ---
 
