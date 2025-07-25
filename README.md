@@ -1,6 +1,8 @@
 <!-- LeetCode Block (p1) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF" />
+  <a href="https://www.linkedin.com/in/neelu-sahai-6367681b/" target="_blank">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF" />
+  </a>
 </p>
 
 <p align="center">
