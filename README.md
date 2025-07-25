@@ -8,6 +8,7 @@
 </p>
 
 <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+  <strong>Problem Solving on LeetCode</strong>
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="LeetCode Logo" />
   </a>
