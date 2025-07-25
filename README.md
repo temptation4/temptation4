@@ -1,3 +1,4 @@
+<!-- LeetCode Block (p1) -->
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF" />
 </p>
@@ -10,27 +11,16 @@
   </a>
 </p>
 
-
 <h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
-
-
-<p align="center" style="text-decoration: none;">
-  <a href="https://leetcode.com/u/neelhuma/" target="_blank" style="text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode Logo" />
-    <span style="font-weight: bold; color: black;">Problem Solving on LeetCode</span>
-    <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="60" alt="Solving LeetCode GIF" />
-  </a>
-</p>
-
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 An eager-to-learn Software Engineer with strong expertise in backend development and scalable microservices architecture  
+- 🚀 An eager-to-learn Software Engineer with strong expertise in backend development and scalable microservices architecture  
 - 🌱 Exploring **Spring Boot 3**, **Java 21**, **System Design**, **Microservices**, **Cloud Computing**, and **Data Structures & Algorithms**  
-- 💬 Ask me about **Spring Boot, Microservices, Kafka, AWS, MongoDB, System Design**  
-- 📫 How to reach me: **neelhuma@gmail.com**  
+- 🗨️ Ask me about **Spring Boot, Microservices, Kafka, AWS, MongoDB, System Design**  
+- 💋 How to reach me: **neelhuma@gmail.com**  
 - 📄 [View My Resume](./resume/Neelu_Sahai_Resume.pdf)  
 - ⚡ Fun fact: I love solving real-world problems with clean architecture and reusable components.
 
