@@ -8,20 +8,21 @@
 </p>
 
 <!-- LeetCode Block -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
 
-<p align="center">
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode Logo" />
   </a>
-  &nbsp;&nbsp;
-  <span style="font-size: 20px; font-weight: bold; vertical-align: middle;">
+
+  <span style="font-size: 20px; font-weight: bold;">
     Problem Solving on LeetCode
   </span>
-  &nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/neelhuma/" target="_blank">
     <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="50" style="border-radius: 50%;" alt="LeetCode GIF" />
   </a>
-</p>
+
+</div>
 
 
 
