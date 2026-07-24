@@ -1,7 +1,7 @@
 <!-- LeetCode Block (p1) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/neelu-sahai-6367681b/" target="_blank">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF" />
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000"  height = 300 alt="Coding Girl GIF" />
   </a>
 </p>
 
@@ -21,17 +21,19 @@
 </p>
 
 
-<h3 align="center">Senior Java Backend Lead | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
+<h3 align="center">Senior Java Backend Engineer | Distributed Systems | Spring Boot | Kafka | AWS | System Design</h3>
 
 ---
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🚀 An eager-to-learn Software Engineer with strong expertise in backend development and scalable microservices architecture  
-- 🌱 Exploring **Spring Boot 3**, **Java 21**, **System Design**, **Microservices**, **Cloud Computing**, and **Data Structures & Algorithms**  
-- 🗨️ Ask me about **Spring Boot, Microservices, Kafka, AWS, MongoDB, System Design**  
-- 📧 How to reach me: **neelhuma@gmail.com**  
-- ⚡ Fun fact: I love solving real-world problems with clean architecture and reusable components.
+💻 Senior Java Backend Engineer with **11+ years of experience** architecting distributed systems and scalable microservices for enterprise applications.
+
+⚡ Experienced in building high-throughput backend platforms using **Java, Spring Boot, Kafka, AWS, Kubernetes, and event-driven architecture**, with a strong focus on performance, reliability, and maintainability.
+
+🌱 Passionate about innovation and continuously learning emerging technologies, currently building AI-powered applications with **Spring AI**, **OpenAI APIs**, and **RAG**.
+
+🚀 I believe great software is built through thoughtful system design, clean architecture, collaboration, and continuous improvement.
 
 
 ---
