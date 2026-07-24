@@ -38,94 +38,130 @@
 
 ---
 
-### 🛠️ Languages and Tools
 
- <p align="left">
-  <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">
-    <img src="https://img.shields.io/badge/Java-17%2F21-007396?style=for-the-badge&logo=java&logoColor=white" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS☁️-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  </a>
-  <a href="https://restfulapi.net/" target="_blank">
-    <img src="https://img.shields.io/badge/REST_API🔗-00599C?style=for-the-badge" />
-  </a>
-  <a href="https://www.baeldung.com/java-multithreading-concurrency" target="_blank">
-    <img src="https://img.shields.io/badge/Multithreading🧵-00618A?style=for-the-badge" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/concurrency-in-java/" target="_blank">
-    <img src="https://img.shields.io/badge/Concurrency⚙️-6E6E6E?style=for-the-badge" />
-  </a>
-  <a href="https://microservices.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Microservices🧩-FF9800?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    <img src="https://img.shields.io/badge/System%20Design📐-4CAF50?style=for-the-badge" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
-    <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms📊-2196F3?style=for-the-badge" />
-  </a>
+
+## 🛠️ Tech Stack
+
+
+### ☕ Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-8%2F11%2F17%2F21%2F25-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
+
+---
+
+### 🌱 Spring Ecosystem
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚡ Backend & Architecture
+
+<p>
+<img src="https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-512DA8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event--Driven_Architecture-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reactive_Programming-2196F3?style=for-the-badge"/>
+</p>
+
+---
+
+
+### 📨 Messaging & Event Streaming
+
+<p>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+</p>
+
+---
+
+### 🚀 Performance & Concurrency
+
+<p>
+<img src="https://img.shields.io/badge/Multithreading-00618A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Concurrency-6E6E6E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Executor_Framework-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fork%2FJoin_Framework-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JVM_Performance-795548?style=for-the-badge"/>
+</p>
+
+---
+
+### 📊 Observability
+
+<p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### 🤖 AI & GenAI (Currently Learning)
+
+<p>
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/LLMs-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain4j-2E7D32?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 💡 Soft Skills
 
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/Communication" target="_blank">
-    <img src="https://img.shields.io/badge/Communication-4B0082?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Collaboration" target="_blank">
-    <img src="https://img.shields.io/badge/Collaboration-800080?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Problem_solving" target="_blank">
-    <img src="https://img.shields.io/badge/Problem%20Solving-9932CC?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Time_management" target="_blank">
-    <img src="https://img.shields.io/badge/Time%20Management-BA55D3?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Leadership" target="_blank">
-    <img src="https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Adaptability" target="_blank">
-    <img src="https://img.shields.io/badge/Adaptability-DDA0DD?style=for-the-badge&logoColor=black" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Critical_thinking" target="_blank">
-    <img src="https://img.shields.io/badge/Critical%20Thinking-DA70D6?style=for-the-badge&logoColor=black" />
-  </a>
+<p>
+<img src="https://img.shields.io/badge/Problem_Solving-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Innovative-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Leadership-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mentoring-AB47BC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Team_Collaboration-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Communication-5E35B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Continuous_Learning-673AB7?style=for-the-badge"/>
 </p>
 
 
