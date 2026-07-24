@@ -21,7 +21,7 @@
 </p>
 
 
-<h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
+<h3 align="center">Senior Java Backend Lead | Spring Boot | Microservices | Kafka | AWS | Java 21</h3>
 
 ---
 
