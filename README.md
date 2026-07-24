@@ -129,6 +129,17 @@
 
 ---
 
+### 🧩 Computer Science Fundamentals
+
+<p>
+<img src="https://img.shields.io/badge/Data_Structures-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-0D47A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object_Oriented_Programming-3949AB?style=for-the-badge"/>
+</p>
+
+---
+
 ### 📊 Observability
 
 <p>
