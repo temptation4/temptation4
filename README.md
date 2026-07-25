@@ -42,6 +42,7 @@
 
 ## 🛠️ Tech Stack
 
+👉 <sub><b>Tip:</b> Click any badge (e.g., Java) below to view documentation. Hold <kbd>Ctrl</kbd> / <kbd>⌘ Cmd</kbd> while clicking to open in a new tab.</sub>
 
 ### ☕ Languages
 
@@ -106,8 +107,6 @@
 
 ### ☁️ Cloud & DevOps
 
-<sub>💡 <b>Tip:</b> Click any badge to view docs. Hold <kbd>Ctrl</kbd> / <kbd>⌘ Cmd</kbd> while clicking to open in a new tab.</sub>
-
 <p>
   <a href="https://github.com/temptation4/pringboot-s3-file-upload/blob/main/README.md">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" alt="AWS Badge"/>
@@ -122,7 +121,6 @@
 ---
 
 ### 🚀 Performance & Concurrency
-<sub>💡 <b>Tip:</b> Click any badge to view docs. Hold <kbd>Ctrl</kbd> / <kbd>⌘ Cmd</kbd> while clicking to open in a new tab.</sub>
 
 <p>
 <img src="https://img.shields.io/badge/Multithreading-00618A?style=for-the-badge"/>
