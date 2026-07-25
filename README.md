@@ -46,7 +46,12 @@
 ### ☕ Languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-8%2F11%2F17%2F21%2F25-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<a href="https://github.com/temptation4/java-features/blob/main/README.md">
+  <img src="https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00&color=556B2F" alt="Java Expert Badge"/>
+</a>
+</a>
+</a>
+</a>
 <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
