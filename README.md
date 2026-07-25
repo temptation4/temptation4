@@ -1,10 +1,5 @@
+<img width="1000" height="300" alt="download" src="https://github.com/user-attachments/assets/85869b33-fdce-4ed5-89e9-53542ce14696" />
 <!-- LeetCode Block (p1) -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/neelu-sahai-6367681b/" target="_blank">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000"  height = 300 alt="Coding Girl GIF" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=30&duration=3500&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelu+Sahai" alt="Typing SVG" />
 </p>
@@ -26,6 +21,11 @@
 ---
 
 ## 👨‍💻 About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/neelu-sahai-6367681b/" target="_blank">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000"  height = 300 alt="Coding Girl GIF" />
+  </a>
+</p>
 
 💻 Senior Java Backend Engineer with **11+ years of experience** architecting distributed systems and scalable microservices for enterprise applications.
 
