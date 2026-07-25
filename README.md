@@ -122,12 +122,15 @@
 ---
 
 ### 🚀 Performance & Concurrency
+<sub>💡 <b>Tip:</b> Click any badge to view docs. Hold <kbd>Ctrl</kbd> / <kbd>⌘ Cmd</kbd> while clicking to open in a new tab.</sub>
 
 <p>
 <img src="https://img.shields.io/badge/Multithreading-00618A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Concurrency-6E6E6E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Executor_Framework-3F51B5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fork%2FJoin_Framework-7B1FA2?style=for-the-badge"/>
+   <a href="https://github.com/temptation4/Java-threadpool-examples/wiki">
+    <img src="https://img.shields.io/badge/Fork%2FJoin_Framework-7B1FA2?style=for-the-badge" alt="ForkJoinPool-"/>
+  </a>
 <img src="https://img.shields.io/badge/JVM_Performance-795548?style=for-the-badge"/>
 </p>
 
