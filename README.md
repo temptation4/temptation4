@@ -46,7 +46,7 @@
 ### ☕ Languages
 
 <p>
-<a href="https://github.com/temptation4/java-features/blob/main/README.md">
+<a href="https://github.com/temptation4/java-features/wiki/Java-Evolution">
   <img src="https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00&color=556B2F" alt="Java Expert Badge"/>
 </a>
 </a>
