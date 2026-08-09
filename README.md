@@ -8,18 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=750&lines=%E2%9C%A8+Welcome+to+my+profile+%E2%9C%A8;Hi+%F0%9F%91%8B%2C+I%27m+Neelu+Sahai;Transforming+Ideas+into+Scalable+Solutions;Learning+Never+Stops+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <strong>To Check LeetCode Click On Below</strong><br>
-  <a href="https://leetcode.com/u/neelhuma/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="LeetCode Logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/neelhuma/" target="_blank">
-    <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" height="50" style="border-radius: 50%;" alt="GIF" />
-  </a>
-</p>
-
-
 <h3 align="center">Senior Java Backend Engineer | Distributed Systems | Spring Boot | Kafka | AWS | System Design</h3>
 
 ---
