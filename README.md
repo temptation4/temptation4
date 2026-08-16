@@ -55,7 +55,9 @@
 <a href="https://github.com/temptation4/-spring-interview-lab/blob/main/spring-interview-lab/docs/03-Spring-JPA-README.md"><img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/></a>
 <a href="https://github.com/temptation4/spring-security-demo-in-details/blob/main/README.md"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/></a>
 <a href="https://github.com/temptation4/-spring-interview-lab/blob/main/spring-interview-lab/docs/07-Spring-Cloud-README.md"><img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge"/></a>
-  <a href="https://github.com/temptation4/blocking-vs-nonblocking-demo"><img src="https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge"/></a>
+  <a href="https://github.com/temptation4/blocking-vs-nonblocking-demo">
+    <img src="https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
@@ -146,12 +148,32 @@
 ### 🧩 Computer Science Fundamentals
 
 <p>
-<img src="https://img.shields.io/badge/Data_Structures-1976D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-1565C0?style=for-the-badge"/>
+  <a href="https://github.com/temptation4/java-design-patterns">
+  <img src="https://img.shields.io/badge/Design_Pattern-1976D2?style=for-the-badge"/>
+  </a>
+<img src="https://img.shields.io/badge/SOLID-1565C0?style=for-the-badge"/>
     <a href="https://github.com/temptation4/Problem-solving/tree/main">
 <img src="https://img.shields.io/badge/Problem_Solving-0D47A1?style=for-the-badge"/>
   </a>
 <img src="https://img.shields.io/badge/Object_Oriented_Programming-3949AB?style=for-the-badge"/>
+</p>
+
+### 🧠 DATA STRUCTURES AND ALGORITHMS
+
+<p>
+  <a href="https://github.com/temptation4/Graph-Guide/discussions/1">
+    <img src="https://img.shields.io/badge/Graph-6DB33F?style=for-the-badge"/>
+  </a>
+   <a href="https://github.com/temptation4/Tree-Interview-prep">
+    <img src="https://img.shields.io/badge/Tree-6DB33F?style=for-the-badge"/>
+  </a>
+     <a href="https://github.com/temptation4/LinkedList">
+    <img src="https://img.shields.io/badge/LinkedList-6DB33F?style=for-the-badge"/>
+  </a>
+<img src="https://img.shields.io/badge/Algorithms-1565C0?style=for-the-badge"/>
+    <a href="https://github.com/temptation4/Problem-solving/tree/main">
+<img src="https://img.shields.io/badge/Problem_Solving-0D47A1?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
