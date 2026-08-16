@@ -6,42 +6,24 @@ Java • Spring Boot • Microservices • Kafka • AWS • System Design
 
 <p align="center"> <a href="https://www.linkedin.com/in/neelu-sahai-6367681b/" target="_blank"><img src="https://img.shields.io/badge/%23OpenToWork-2EA44F?style=for-the-badge&logo=github&logoColor=white"/></a> </p> <p align="center"> <a href="https://www.linkedin.com/in/neelu-sahai-6367681b/" target="_blank"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" height="300" alt="Coding Girl GIF" /></a> </p> <!-- LeetCode Block (p1) --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=750&lines=%E2%9C%A8+Welcome+to+my+profile+%E2%9C%A8;Hi+%F0%9F%91%8B%2C+I%27m+Neelu+Sahai;Transforming+Ideas+into+Scalable+Solutions;Learning+Never+Stops+%F0%9F%93%9A" alt="Typing SVG" /> </p>
 
-
 ## 👨‍💻 About Me
 
 Senior Java Backend Engineer & Tech Lead with **11+ years of experience**
 building scalable distributed systems and enterprise microservices.
 
-- ⚙️ **Backend:** Java, Spring Boot, Microservices
-- 📨 **Distributed Systems:** Kafka, Event-Driven Architecture
-- ☁️ **Cloud:** AWS, Docker, Kubernetes
-- ⚡ **Performance:** Concurrency, Caching, JVM Optimization
+## 🎯 Core Expertise
+
+- ⚙️ **Backend Engineering:** Java, Spring Boot, Microservices
+- 📨 **Distributed Systems:** Kafka, Redis, Event-Driven Architecture
+- ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes
 - 🧩 **Architecture:** System Design, Design Patterns, Clean Architecture
+- ⚡ **Performance:** Concurrency, Caching, JVM Optimization
+- 📊 **Observability:** Prometheus, Grafana, OpenTelemetry
 - 🤖 **Currently Exploring:** Spring AI, OpenAI APIs, RAG
 
-💡 I focus on building systems that are **scalable, reliable,
-maintainable, and production-ready**.
-
-🚀 I believe great software is built through thoughtful system design, clean architecture, collaboration, and continuous improvement.
-
-🎯 Core Expertise
-Backend: Java, Spring Boot, Microservices
-Distributed Systems: Kafka, Redis, Event-Driven Architecture
-Cloud: AWS, Docker, Kubernetes
-Architecture: System Design, Design Patterns, SOLID
-Performance: Concurrency, JVM, Caching
-🏗️ What I Build
-I design and build scalable backend systems using:
-
-⚙️ Java & Spring Boot microservices
-📨 Kafka-based event-driven architectures
-☁️ AWS cloud infrastructure
-⚡ Redis caching and performance optimization
-🗄️ SQL and NoSQL data stores
-📊 Observability with Prometheus & Grafana
-🐳 Docker & Kubernetes deployments
-🛠️ Tech Stack
-
+💡 I focus on building **scalable, reliable, maintainable, and production-ready
+backend systems** with strong emphasis on architecture, performance, and
+distributed systems.
 
 👉 <sub><b>Tip:</b> Click the linked badges below to explore related documentation and projects.</sub>
 
