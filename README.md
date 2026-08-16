@@ -8,8 +8,9 @@
 
 🚀 I believe great software is built through thoughtful system design, clean architecture, collaboration, and continuous improvement.
 
-🛠️ Tech Stack
 👉 <sub><b>Tip:</b> Click any badge (e.g., Java) below to view documentation. Hold <kbd>Ctrl</kbd> / <kbd>⌘ Cmd</kbd> while clicking to open in a new tab.</sub>
+
+🛠️ Tech Stack
 
 ☕ Languages
 <p> <a href="https://github.com/temptation4/java-features/wiki/Java-Evolution"><img src="https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00&color=556B2F" alt="Java Expert Badge"/></a> <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Go-Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> </p>
@@ -35,6 +36,8 @@
 <p> <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-8E44AD?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/Prompt_Engineering-673AB7?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangChain4j-2E7D32?style=for-the-badge"/> </p>
 💡 Soft Skills
 <p> <img src="https://img.shields.io/badge/Problem_Solving-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Innovative-7B1FA2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Leadership-9C27B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Mentoring-AB47BC?style=for-the-badge"/> <img src="https://img.shields.io/badge/Team_Collaboration-8E44AD?style=for-the-badge"/> <img src="https://img.shields.io/badge/Communication-5E35B1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Continuous_Learning-673AB7?style=for-the-badge"/> </p>
+🚀 Featured Projects
+<table> <tr> <th align="left">Project</th> <th align="left">Description</th> <th align="left">Technologies</th> </tr> <tr> <td>📨 <a href="https://github.com/temptation4?tab=repositories&q=kafka"><b>Kafka Projects</b></a></td> <td>Kafka patterns, transactions, consumer groups & reliability</td> <td>Java, Spring Boot, Kafka</td> </tr> <tr> <td>☁️ <a href="https://github.com/temptation4/pringboot-s3-file-upload"><b>AWS Spring Boot</b></a></td> <td>S3, IAM, EC2 and cloud deployment examples</td> <td>Java, Spring Boot, AWS</td> </tr> <tr> <td>🧩 <a href="https://github.com/temptation4/Saga-Choreography"><b>System Design</b></a></td> <td>Distributed systems and architecture concepts</td> <td>Microservices, Kafka, Redis</td> </tr> <tr> <td>🧠 <a href="https://github.com/temptation4/Problem-solving"><b>DSA & Problem Solving</b></a></td> <td>Interview-focused algorithms and data structures</td> <td>Java, DSA, Algorithms</td> </tr> </table>
 📊 GitHub Stats
 <p align="center"> <a href="https://github.com/temptation4?tab=repositories" target="_blank"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=temptation4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" width="47%" /><img src="https://github-readme-streak-stats.herokuapp.com?user=temptation4&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="47%" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=temptation4&layout=compact&theme=tokyonight&cache_seconds=1800" width="47%" /></a> </p>
 🔗 Connect With Me
