@@ -162,17 +162,21 @@
 
 <p>
   <a href="https://github.com/temptation4/Graph-Guide/discussions/1">
-   <img src="https://img.shields.io/badge/Graph-8E44AD?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🔗%20GRAPH-8E44AD?style=for-the-badge&labelColor=8E44AD&color=8E44AD"/>
   </a>
-   <a href="https://github.com/temptation4/Tree-Interview-prep">
-    <img src="https://img.shields.io/badge/Tree-6DB33F?style=for-the-badge"/>
+
+  <a href="https://github.com/temptation4/Tree-Interview-prep">
+    <img src="https://img.shields.io/badge/🌲%20TREE-65B837?style=for-the-badge&labelColor=65B837&color=65B837"/>
   </a>
-     <a href="https://github.com/temptation4/LinkedList">
- <img src="https://img.shields.io/badge/LinkedList-009688?style=for-the-badge"/>
+
+  <a href="https://github.com/temptation4/LinkedList">
+    <img src="https://img.shields.io/badge/🔗%20LINKEDLIST-009688?style=for-the-badge&labelColor=009688&color=009688"/>
   </a>
-<img src="https://img.shields.io/badge/Algorithms-1565C0?style=for-the-badge"/>
-    <a href="https://github.com/temptation4/Problem-solving/tree/main">
-<img src="https://img.shields.io/badge/Problem_Solving-0D47A1?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/f(x)%20ALGORITHMS-1565C0?style=for-the-badge&labelColor=1565C0&color=1565C0"/>
+
+  <a href="https://github.com/temptation4/Problem-solving/tree/main">
+    <img src="https://img.shields.io/badge/🎯%20PROBLEM%20SOLVING-0D47A1?style=for-the-badge&labelColor=0D47A1&color=0D47A1"/>
   </a>
 </p>
 
