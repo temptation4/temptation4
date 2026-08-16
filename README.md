@@ -5,12 +5,22 @@ Java • Spring Boot • Microservices • Kafka • AWS • System Design
 📍 Backend Engineering | Distributed Systems | Event-Driven Architecture
 
 <p align="center"> <a href="https://www.linkedin.com/in/neelu-sahai-6367681b/" target="_blank"><img src="https://img.shields.io/badge/%23OpenToWork-2EA44F?style=for-the-badge&logo=github&logoColor=white"/></a> </p> <p align="center"> <a href="https://www.linkedin.com/in/neelu-sahai-6367681b/" target="_blank"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" height="300" alt="Coding Girl GIF" /></a> </p> <!-- LeetCode Block (p1) --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=750&lines=%E2%9C%A8+Welcome+to+my+profile+%E2%9C%A8;Hi+%F0%9F%91%8B%2C+I%27m+Neelu+Sahai;Transforming+Ideas+into+Scalable+Solutions;Learning+Never+Stops+%F0%9F%93%9A" alt="Typing SVG" /> </p>
-👨‍💻 About Me
-💻 Senior Java Backend Engineer with 11+ years of experience architecting distributed systems and scalable microservices for enterprise applications.
 
-⚡ Experienced in building high-throughput backend platforms using Java, Spring Boot, Kafka, AWS, Kubernetes, and event-driven architecture, with a strong focus on performance, reliability, and maintainability.
 
-🌱 Passionate about innovation and continuously learning emerging technologies, currently building AI-powered applications with Spring AI, OpenAI APIs, and RAG.
+## 👨‍💻 About Me
+
+Senior Java Backend Engineer & Tech Lead with **11+ years of experience**
+building scalable distributed systems and enterprise microservices.
+
+- ⚙️ **Backend:** Java, Spring Boot, Microservices
+- 📨 **Distributed Systems:** Kafka, Event-Driven Architecture
+- ☁️ **Cloud:** AWS, Docker, Kubernetes
+- ⚡ **Performance:** Concurrency, Caching, JVM Optimization
+- 🧩 **Architecture:** System Design, Design Patterns, Clean Architecture
+- 🤖 **Currently Exploring:** Spring AI, OpenAI APIs, RAG
+
+💡 I focus on building systems that are **scalable, reliable,
+maintainable, and production-ready**.
 
 🚀 I believe great software is built through thoughtful system design, clean architecture, collaboration, and continuous improvement.
 
@@ -32,7 +42,8 @@ I design and build scalable backend systems using:
 🐳 Docker & Kubernetes deployments
 🛠️ Tech Stack
 
-👉 <sub><b>Tip:</b> Click any badge (e.g., Java) below to view documentation. Hold <kbd>Ctrl</kbd> / <kbd>⌘ Cmd</kbd> while clicking to open in a new tab.</sub>
+
+👉 <sub><b>Tip:</b> Click the linked badges below to explore related documentation and projects.</sub>
 
 ☕ Languages
 <p> <a href="https://github.com/temptation4/java-features/wiki/Java-Evolution"><img src="https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00&color=556B2F" alt="Java Expert Badge"/></a> <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Go-Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> </p>
@@ -65,4 +76,4 @@ I design and build scalable backend systems using:
 🔗 Connect With Me
 <p align="left"> <a href="https://www.linkedin.com/in/neelu-sahai-6367681b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:neelhuma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://leetcode.com/u/neelhuma/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a> </p>
 🚀 Featured Projects
-<table> <tr> <th align="left">Project</th> <th align="left">What it demonstrates</th> <th align="left">Technologies</th> </tr> <tr> <td>📨 <a href="https://github.com/temptation4?tab=repositories&q=kafka"><b>Kafka Projects</b></a></td> <td>Kafka transactions, reliability, consumer groups, retry/DLQ and event-driven patterns</td> <td>Java, Spring Boot, Kafka</td> </tr> <tr> <td>☁️ <a href="https://github.com/temptation4/pringboot-s3-file-upload"><b>AWS Spring Boot</b></a></td> <td>EC2, S3, IAM, RDS and Spring Boot cloud deployment</td> <td>Java, Spring Boot, AWS</td> </tr> <tr> <td>🧩 <a href="https://github.com/temptation4/Saga-Choreography"><b>System Design</b></a></td> <td>Distributed systems, microservices, scalability and architecture</td> <td>Microservices, Kafka, Redis</td> </tr> <tr> <td>🧠 <a href="https://github.com/temptation4/Problem-solving"><b>DSA & Problem Solving</b></a></td> <td>Interview-focused algorithms and data structures</td> <td>Java</td> </tr> </table>
+<table> <tr> <th align="left">Project</th> <th align="left">What it demonstrates</th> <th align="left">Technologies</th> </tr> <tr> <td>📨 <a href="https://github.com/temptation4?tab=repositories&q=kafka"><b>Kafka Reliability & Patterns</b></a></td> <td>Kafka transactions, reliability, consumer groups, retry/DLQ and event-driven patterns</td> <td>Java, Spring Boot, Kafka</td> </tr> <tr> <td>☁️ <a href="https://github.com/temptation4/pringboot-s3-file-upload"><b>AWS Spring Boot</b></a></td> <td>EC2, S3, IAM, RDS and Spring Boot cloud deployment</td> <td>Java, Spring Boot, AWS</td> </tr> <tr> <td>🧩 <a href="https://github.com/temptation4/Saga-Choreography"><b>System Design</b></a></td> <td>Distributed systems, microservices, scalability and architecture</td> <td>Microservices, Kafka, Redis</td> </tr> <tr> <td>🧠 <a href="https://github.com/temptation4/Problem-solving"><b>DSA & Problem Solving</b></a></td> <td>Interview-focused algorithms and data structures</td> <td>Java</td> </tr> </table>
