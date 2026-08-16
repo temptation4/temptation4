@@ -162,7 +162,7 @@
 
 <p>
   <a href="https://github.com/temptation4/Graph-Guide/discussions/1">
-    <img src="https://img.shields.io/badge/Graph-6DB33F?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/Graph-8E44AD?style=for-the-badge"/>
   </a>
    <a href="https://github.com/temptation4/Tree-Interview-prep">
     <img src="https://img.shields.io/badge/Tree-6DB33F?style=for-the-badge"/>
