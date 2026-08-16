@@ -77,7 +77,9 @@
 ### 📨 Messaging & Event Streaming
 
 <p>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+    <a href="https://medium.com/@neelhuma/apache-kafka-is-an-open-source-distributed-event-streaming-platform-designed-for-high-throughput-922f04e642df">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  </a>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon_SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon_SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
