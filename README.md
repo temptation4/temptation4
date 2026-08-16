@@ -168,7 +168,7 @@
     <img src="https://img.shields.io/badge/Tree-6DB33F?style=for-the-badge"/>
   </a>
      <a href="https://github.com/temptation4/LinkedList">
-    <img src="https://img.shields.io/badge/LinkedList-6DB33F?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/LinkedList-009688?style=for-the-badge"/>
   </a>
 <img src="https://img.shields.io/badge/Algorithms-1565C0?style=for-the-badge"/>
     <a href="https://github.com/temptation4/Problem-solving/tree/main">
