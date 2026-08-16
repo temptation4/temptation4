@@ -157,8 +157,12 @@
 ### 📊 Observability
 
 <p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
+    <a href="https://github.com/temptation4/stock-analytics">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
+  </a>
+    <a href="https://github.com/temptation4/stock-analytics">
+ <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
+  </a>
 <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge"/>
 </p>
 
