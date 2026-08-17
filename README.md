@@ -194,7 +194,9 @@ reliability, maintainability, and clean architecture.
 ## 🤖 AI & GenAI (Currently Learning)
 
 <p>
-  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <a href="https://github.com/temptation4/Spring-AI-Chat-Demo">
+     <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-8E44AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
