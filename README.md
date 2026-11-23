@@ -26,6 +26,14 @@ Java • Spring Boot • Microservices • Kafka • AWS • System Design
        alt="Typing SVG" />
 </p>
 
+<p align="center">
+  If you like what I build, maybe consider buying me a coffee/tea 🥺👉👈
+  <br/><br/>
+  <a href="https://razorpay.me/@neelu" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%98%95%20Buy%20me%20a%20coffee-FF5A5F?style=for-the-badge" alt="Buy me a coffee" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
